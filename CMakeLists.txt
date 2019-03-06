@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 include_directories(${CMAKE_SOURCE_DIR})
 
-add_executable(NumericalOptimization main.cpp NumericalOptimizer.cpp NumericalOptimizer.h)
+add_executable(NumericalOptimization main.cpp)
